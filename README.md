@@ -1,4 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I'm Rafael!
+
+Statistician & Data Scientist • Software Developer • AI Researcher 
+
+---
+
+## 📚 About Me
+
+I’m a researcher & developer passionate about building **intelligent systems** that bridge the gap between **theory and real-world applications**.  
+My journey started in **financial and insurance mathematics**, evolved into **mathematical engineering**,  
+and culminated in a **PhD** on *Poisson–gamma modeling with dependency in the prior parameter*. Worked in an **AI projekt** with RAG and depeloped **Web Applications**.
+
+I combine **mathematical rigor** with **software engineering** to craft AI systems that actually work — not just in theory.
+
+---
+
+## 🔭 Current Focus
+
+- **AI + Vector Databases** — building **retrieval-augmented generation (RAG)** pipelines
+- **Multimodal Knowledge Bases** — integrating **images + text** for better context understanding
+- **OpenAI API & LLMs** — using large language models for reasoning, summarization, and search
+- **Python & TypeScript** — developing end-to-end applications from backend logic to web interfaces
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`Python` • `TypeScript` • `Matlab` • `R`
+
+**AI & Data Science:**  
+`PyTorch` • `LangChain` • `HuggingFace` • `transformers.js` • `OpenAI API` • `Mistral API` •   
+`Pandas` • `NumPy` • `scikit-learn`
+
+**Databases:**  
+`PostgreSQL` • `MySQL` 
+
+**Tools & Frameworks:**  
+`Jupiter notebook` • `FastAPI` • `Node.js` •  `Express` • `React` • `Next.js`
+
+---
+
+## 🚀 Projects
+
+- **📷 Multimodal RAG Pipeline** — Store and retrieve **images + text** in a vector database, then reason with Mistral.
+- **📚 Academic Research Tools** — Statistical modeling for Poisson–gamma processes.
+- **🤖 Autogen Experiments** — Multi-agent AI workflows in Python.
+
+---
+
+## 🎯 My Goal
+
+To create **AI systems** that are:
+1. **Grounded in mathematics** 🧮
+2. **Engineering-ready** ⚙️
+3. **Human-usable** 🤝
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/rafael-schwarzenegger) • [blog](https://rafaelschwarzenegger.webnode.page/) • [YouTube](https://www.youtube.com/@rafaelschwarzenegger)
+
+---
+
+> *"Turning complex mathematics into practical AI — one vector at a time."*
+
 
 <!--
 **rafgger/rafgger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

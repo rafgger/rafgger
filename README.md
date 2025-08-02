@@ -29,8 +29,8 @@ I combine **mathematical rigor** with **software engineering** to craft AI syste
 `Python` • `TypeScript` • `Matlab` • `R`
 
 **AI & Data Science:**  
-`PyTorch` • `LangChain` • `HuggingFace` • `Flowise` • `transformers.js` • `OpenAI API` • `Mistral API` •   
-`Pandas` • `NumPy` • `scikit-learn`
+`TensorFlow` • `scikit-learn` • `PyTorch` • `LangChain` • `HuggingFace` • `Flowise` • `transformers.js` • `OpenAI API` • `Mistral API` •   
+`Pandas` • `NumPy`
 
 **Databases:**  
 `PostgreSQL` • `MySQL` 
@@ -44,7 +44,7 @@ I combine **mathematical rigor** with **software engineering** to craft AI syste
 
 - **📷 Multimodal RAG Pipeline** — Store and retrieve **images + text** in a vector database, then reason with Mistral.
 - **📚 Academic Research Tools** — Statistical modeling for Poisson–gamma processes.
-- **🤖 Autogen Experiments** — Multi-agent AI workflows in Python.
+- **🤖 Flowise Experiments** — Multi-agent AI workflows. 
 
 ---
 

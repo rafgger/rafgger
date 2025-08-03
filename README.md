@@ -36,7 +36,7 @@ I combine **mathematical rigor** with **software engineering** to craft AI syste
 `PostgreSQL` • `MySQL` 
 
 **Tools & Frameworks:**  
-`Jupiter notebook` • `FastAPI` • `Node.js` •  `Express` • `React` • `Next.js`
+`Jupiter notebook` • `FastAPI` • `Node.js` •  `Express` • `Vue.js` • `Vuetify` • `React` • `Next.js`
 
 ---
 

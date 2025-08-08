@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rafael!
 
-Statistician & Data Scientist • Software Developer • AI Researcher 
+Statistician & Data Scientist • AI Researcher • Software Developer 
 
 ---
 

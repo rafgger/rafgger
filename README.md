@@ -6,7 +6,7 @@ Statistician & Data Scientist • AI Researcher • Software Developer
 
 ## 📚 About Me
 
-I’m a researcher & developer passionate about building **intelligent systems** that bridge the gap between **theory and real-world applications**.  
+I’m a developer & researcher passionate about building **intelligent systems** that bridge the gap between **theory and real-world applications**.  
 My journey started in **financial and insurance mathematics**, evolved into **mathematical engineering**,  
 and culminated in a **PhD** on *Poisson–gamma modeling with dependency in the prior parameter*. Worked in an **AI projekt** with RAG and depeloped **Web Applications**.
 

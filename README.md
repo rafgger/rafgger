@@ -7,7 +7,7 @@ AI Engineer • Statistician & Data Scientist • Software Developer
 ## 📚 About Me
 
 I’m a developer & researcher passionate about building **intelligent systems** that bridge the gap between **theory and real-world applications**.  
-Currently working on [TimeFlow - AI Time Tracking](https://time-flow-wheat.vercel.app/)
+Currently working on [TimeFlow - AI Time Tracking](https://time-flow-wheat.vercel.app/).
 My journey started in **financial and insurance mathematics**, evolved into **mathematical engineering**,  
 and culminated in a **PhD** on *Poisson–gamma modeling with dependency in the prior parameter*. Worked in an **AI projekt** with RAG and depeloped **Web Applications**.
 

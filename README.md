@@ -30,14 +30,14 @@ I combine **mathematical rigor** with **software engineering** to craft AI syste
 `Python` • `TypeScript` • `Matlab` • `R`
 
 **AI & Data Science:**  
-`TensorFlow` • `scikit-learn` • `PyTorch` • `LangChain` • `HuggingFace` • `Flowise` • `transformers.js` • `OpenAI API` • `Mistral API` •   
+`TensorFlow` • `scikit-learn` • `PyTorch` • `LangChain` • `HuggingFace` • `Flowise` • `n8n` • `transformers.js` • `OpenAI API` • `Mistral API` •   
 `Pandas` • `NumPy`
 
-**Databases:**  
-`PostgreSQL` • `MySQL` 
+**Databases & ORM:**  
+`PostgreSQL` • `MySQL` • `SQLite` • `SQLAlchemy` • `Alembic`
 
-**Tools & Frameworks:**  
-`Jupiter notebook` • `FastAPI` • `Node.js` •  `Express` • `Vue.js` • `Vuetify` • `React` • `Next.js`
+**Tools & Web Frameworks:**  
+`Jupiter notebook` • `FastAPI` • `Flask` • `Django` • `Node.js` •  `Express` • `Vue.js` • `Vuetify` • `React` • `Next.js`
 
 ---
 

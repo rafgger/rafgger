@@ -30,7 +30,7 @@ I combine **mathematical rigor** with **software engineering** to craft AI syste
 `Python` • `TypeScript` • `Matlab` • `R`
 
 **AI & Data Science:**  
-`TensorFlow` • `scikit-learn` • `PyTorch` • `LangChain` • `HuggingFace` • `Flowise` • `n8n` • `transformers.js` • `OpenAI API` • `Mistral API` •   
+`statmodels` • `TensorFlow` • `PyTorch` • `scikit-learn` • `LangChain` • `HuggingFace` • `Flowise` • `n8n` • `transformers.js` • `OpenAI API` • `Mistral API` •   
 `Pandas` • `NumPy`
 
 **Databases & ORM:**  

@@ -9,7 +9,7 @@ AI Engineer • Statistician & Data Scientist • Software Developer
 I’m a developer & researcher passionate about building **intelligent systems** that bridge the gap between **theory and real-world applications**.  
 Currently working on [TimeFlow - AI Time Tracking](https://time-flow-wheat.vercel.app/).
 My journey started in **financial and insurance mathematics**, evolved into **mathematical engineering**,  
-and culminated in a **PhD** on *Poisson–gamma modeling with dependency in the prior parameter*. Worked in an **AI projekt** with RAG and depeloped **Web Applications**.
+and culminated in a **PhD** on *Poisson–gamma modeling with dependency in the prior parameter*. Worked in an **AI projekt** with RAG and depeloped **Web Applications**. My [Menu translating App](https://www.brnoexpatcentre.eu/im-an-expat/useful-links-and-mobile-applications/useful-apps/#:~:text=Menu%20translating%20App) is featured by the Brno Expat Centre as a Useful App.
 
 I combine **mathematical rigor** with **software engineering** to craft AI systems that actually work — not just in theory.
 

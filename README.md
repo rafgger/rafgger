@@ -7,6 +7,9 @@ AI Engineer • Statistician & Data Scientist • Software Developer
 ## 📚 About Me
 
 I’m a developer & researcher passionate about building **intelligent systems** that bridge the gap between **theory and real-world applications**.  
+
+Currently, I work as an AI Engineer at [Webnode](https://www.webnode.com) and [Soap Payments](https://www.paywithsoap.com), developing AI-powered solutions and modern web applications. 
+
 Worked on [TimeFlow - AI Time Tracking](https://time-flow-wheat.vercel.app/).
 My journey started in **financial and insurance mathematics**, evolved into **mathematical engineering**,  
 and culminated in a **PhD** on *Poisson–gamma modeling with dependency in the prior parameter*. Worked in an **AI projekt** with RAG and depeloped **Web Applications**. My [Menu translating App](https://www.brnoexpatcentre.eu/im-an-expat/useful-links-and-mobile-applications/useful-apps/#:~:text=Menu%20translating%20App) is featured by the Brno Expat Centre as a Useful App.
